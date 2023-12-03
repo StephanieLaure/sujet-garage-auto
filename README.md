@@ -7,10 +7,6 @@ Host= localhost:8889
 
 Domain = localhost:8888/monprojet/
 
-DBname = articles_auto
-
-user = 'root', password = 'root'
-
 formulaire de contact : PHPMailer/ configuration gmail 
 
 Pour la création du compte administrateur faire une inscription sur l'interface du site ensuite changer le role 'user' par défaut par le role 'admin'.
